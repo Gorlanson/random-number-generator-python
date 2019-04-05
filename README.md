@@ -1,2 +1,2 @@
 # random-number-generator-python
-python+GUI(tkinter)
+python3+GUI(tkinter)
